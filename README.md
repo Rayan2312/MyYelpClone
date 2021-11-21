@@ -19,7 +19,6 @@ The following extensions are implemented:
 
 Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
 ![Demo](https://github.com/Rayan2312/MyYelpClone/blob/main/myYelpClone.gif)
 
