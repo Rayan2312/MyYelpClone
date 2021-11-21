@@ -1,5 +1,4 @@
-# MyYelpClone
- 
+
 Yelp Clone
 Rayan Albraidi
 
@@ -20,7 +19,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-
+![] (myYelpClone.gif)
 
 GIF created with LiceCap.
 Notes
