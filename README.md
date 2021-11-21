@@ -4,7 +4,7 @@ Rayan Albraidi
 
 Yelp clone displays a list of search results from the Yelp API and displays the results in a scrollable list.
 
-Time spent: 14 hours spent in total
+Time spent: 14 hours spent in total (99% of it was because Android Studio hated me)
 Functionality
 
 The following required functionality is completed:
@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with LiceCap.
 Notes
 
-Describe any challenges encountered while building the app.
+
 License
 
 Copyright [yyyy] [name of copyright owner]
