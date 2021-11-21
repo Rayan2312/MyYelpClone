@@ -14,6 +14,7 @@ The following required functionality is completed:
     The search results are displayed in a RecyclerView
 
 The following extensions are implemented:
+
     Ability to query Yelp API with user input search terms
 
 Video Walkthrough
