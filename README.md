@@ -19,7 +19,7 @@ Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![Demo](blob/main/myYelpClone.gif)
+![Demo](main/myYelpClone.gif)
 
 GIF created with LiceCap.
 Notes
