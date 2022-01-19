@@ -22,7 +22,8 @@ Video Walkthrough
 
 ![Demo](https://github.com/Rayan2312/MyYelpClone/blob/main/myYelpClone.gif)
 
-![try](https://imgur.com/a/wns6mCd)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/wns6mCd" data-context="false" ><a href="//imgur.com/a/wns6mCd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 GIF created with LiceCap.
 Notes
