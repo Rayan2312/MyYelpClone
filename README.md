@@ -22,7 +22,6 @@ Video Walkthrough
 
 ![Demo](https://github.com/Rayan2312/MyYelpClone/blob/main/myYelpClone.gif)
 
-<img src="https://i.imgur.com/kAzyZ9W.jpg"  width="200" height="250" />
 
 
 
