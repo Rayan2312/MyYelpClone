@@ -22,7 +22,7 @@ Video Walkthrough
 
 ![Demo](https://github.com/Rayan2312/MyYelpClone/blob/main/myYelpClone.gif)
 
-![try](https://i.imgur.com/kAzyZ9W.jpg =250x250)
+![try](https://i.imgur.com/kAzyZ9W.jpg | width=250)
 
 GIF created with LiceCap.
 Notes
